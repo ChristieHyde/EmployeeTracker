@@ -1,0 +1,21 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "db": "db"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ChristieHyde/EmployeeTracker"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.2.5"
+  }
+}
